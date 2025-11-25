@@ -1,0 +1,1 @@
+{"name": "n8n Codespace", "image": "mcr.microsoft.com/vscode/devcontainers/base:0-bullseye", "postStartCommand": "docker-compose up -d", "forwardPorts": [5678], "remoteUser": "vscode", "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"}
